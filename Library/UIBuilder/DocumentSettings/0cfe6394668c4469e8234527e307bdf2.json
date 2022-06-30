@@ -1,0 +1,30 @@
+{
+    "UxmlGuid": "0cfe6394668c4469e8234527e307bdf2",
+    "UxmlPath": "Assets/Editor/LocalizationTool.uxml",
+    "CanvasX": 0,
+    "CanvasY": 0,
+    "CanvasWidth": 360,
+    "CanvasHeight": 480,
+    "MatchGameView": false,
+    "ZoomScale": 1.0,
+    "PanOffset": {
+        "x": 236.0,
+        "y": 34.5
+    },
+    "ColorModeBackgroundOpacity": 1.0,
+    "ImageModeCanvasBackgroundOpacity": 1.0,
+    "CameraModeCanvasBackgroundOpacity": 1.0,
+    "EnableCanvasBackground": false,
+    "CanvasBackgroundMode": 0,
+    "CanvasBackgroundColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 255.0
+    },
+    "CanvasBackgroundImage": {
+        "instanceID": 0
+    },
+    "CanvasBackgroundImageScaleMode": 1,
+    "CanvasBackgroundCameraName": ""
+}
